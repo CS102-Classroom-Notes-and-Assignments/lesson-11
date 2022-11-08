@@ -282,6 +282,11 @@ print("\nThe word was", word)
 input("\n\nPress the enter key to exit.")
 ```
 
+###### Bonus Questions to consider:
+- why was a tuple used instead of a list? 
+- How can the code above be improved?
+
+
 ## HOMEWORK
 - Python Programming for the Absolute Beginner, chapters 1-4
 - hw link: (5 points for completing the first question in class), rest for take home: https://classroom.github.com/a/A9yyYNO5
