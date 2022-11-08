@@ -281,5 +281,4 @@ input("\n\nPress the enter key to exit.")
 
 ## HOMEWORK
 - Python Programming for the Absolute Beginner, chapters 1-4
-https://classroom.github.com/a/_sM1pLDp
-due 11/20 @ 11:59PM
+- hw link: (5 points for completing the first question in class), rest for take home: https://classroom.github.com/a/A9yyYNO5
