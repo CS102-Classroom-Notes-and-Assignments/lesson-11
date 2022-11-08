@@ -7,6 +7,8 @@
 - Easier to write; good for prototyping
 - Slower than C/C++!
 
+***Python Docs:*** https://docs.python.org/3/tutorial/index.html
+
 ## HELLO WORLD
 ### FIRST PYTHON PROGRAM
 ```py
