@@ -10,7 +10,7 @@
 ## HELLO WORLD
 ### FIRST PYTHON PROGRAM
 ```py
-print("Game Over")
+print("Hello World")
 ```
 Note that there are no semicolons!
 
