@@ -287,6 +287,9 @@ input("\n\nPress the enter key to exit.")
     - https://stackoverflow.com/questions/1708510/list-vs-tuple-when-to-use-each
 - How can the code above be improved?
 
+### Python Notebooks
+- Jupyter Notebook
+- https://colab.research.google.com/
 
 ## HOMEWORK
 - Python Programming for the Absolute Beginner, chapters 1-4
