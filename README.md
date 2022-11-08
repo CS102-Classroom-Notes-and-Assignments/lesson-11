@@ -88,19 +88,20 @@ for i in word:
 
 ## DICTIONARY
 ```py
-# Geek Translator
-
-geek = {
-    "404": "clueless. From the web error message 404, meaning page not found.",
-    "Googling": "searching the Internet for background information on a person.",
-    "Keyboard Plaque": "the collection of debris found in computer keyboards.",
-    "Link Rot": "the process by which web page links become obsolete.",
-    "Percussive Maintenance": "the act of striking an electronic device to make it work.",
-    "Uninstalled": "being fired. Especially popular during the dot-bomb era."
+nba_finals = {
+    "1947": "Chicago Stags",
+    "1998": "Utah Jazz",
+    "2002": "New Jersey Nets",
+    "2017": "Golden State Warriors ",
+    "2018": "Golden State Warriors ",
+    "2019": "Toronto Raptors",
+    "2020": "Los Angeles Lakers",
+    "2021": "Milwaukee Bucks",
+    "2022": "Golden State Warriors"
 }
 
-print("Uninstalled means", geek["Uninstalled"], "\n")
-print("404 means", geek["404"])
+print("Winner in year 2022: ", nba_finals["2002"])
+print("Winner in year 2025: ",  nba_finals["2025"] if "2025" in nba_finals else "not valid year")
 ```
 
 
