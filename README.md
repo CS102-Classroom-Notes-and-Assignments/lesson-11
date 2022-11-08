@@ -9,6 +9,11 @@
 
 ***Python Docs:*** https://docs.python.org/3/tutorial/index.html
 
+## Installing Python
+- If you are using cygwin, it should already be installed, if you followed the instructions from lesson-1
+- If you have a mac, it should already be installed on your computer
+- If you use replit, create a "Python" replit.
+
 ## HELLO WORLD
 ### FIRST PYTHON PROGRAM
 ```py
