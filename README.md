@@ -74,7 +74,7 @@ for i in range(10, 0, -1):
 ```
 
 ## ARRAYS
-```c
+```py
 word = "Python is awesome!"
 
 print(word[0:6]) # excludes last
